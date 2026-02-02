@@ -21,19 +21,7 @@ The model answers a simple question:
 > **Does time spent in an app influence how much a customer spends?**
 
 ## 📂 Repository Structure
-Linear-Regression-Model/
-│
-├── data/
-│ └── sample_app_usage.csv
-│
-├── notebooks/
-│ └── 01_simple_linear_regression.ipynb
-│
-├── src/
-│ └── train_model.py
-│
-├── README.md
-└── requirements.txt
+
 
 
 > *Note: Some folders may not exist yet. This structure is recommended for future expansion.*
